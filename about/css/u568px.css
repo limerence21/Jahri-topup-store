@@ -1,0 +1,137 @@
+@media screen and (max-width : 768px) {
+    /* NAVBAR START */
+
+    ul {
+        gap: 6px;
+    }
+
+    .navbar h3 {
+        font-size: 1.4rem;
+        font-weight: 300;
+        letter-spacing: 1px;
+    }
+
+    .navbar ul li a {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    .navbar ul li a:hover {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    .navbar .btn {
+        display: none;
+    }
+    
+    /* NAVBAR END */
+
+    /* ABOUT START */
+
+    .top {
+        flex-direction: column;
+        justify-content: end;
+        align-items: start;
+        padding: 0;
+        height: max-content;
+    }
+
+    .top-left {
+        padding: 0 25px;
+        height: 234px;
+        width: 100%;
+        justify-content: end;
+    }
+
+    .top-left p {
+        font-size: 1.8rem;
+    }
+
+    .top-right {
+        width: 100%;
+    }
+
+    .top-right img {
+        width: 350px;
+        margin-right: 50px;
+    }
+
+    .bottom {
+        flex-direction: column;
+        border-top: 2px solid #f15a5a;
+        border-bottom: 2px solid #f15a5a;
+    }
+
+    .bottom h1 {
+        font-size: 1.9rem;
+        font-weight: 300;
+    }
+
+    .bottom p {
+        font-size: 0.95rem;
+        font-weight: 300;
+        margin: 10px;
+        text-align: center;
+    }
+
+    .about-us {
+        padding: 20px 0;
+    }
+
+    .summary {
+        margin: 30px 0;
+    }
+
+    .neon {
+        font-size: 2.8rem;
+    }
+
+    .flux {
+        font-size: 1.5rem;
+        margin: 10px 0;
+    }
+
+    .card {
+        margin: 0;
+        gap: 50px;
+        margin-bottom: 40px;
+    }
+
+    a .card-list {
+        margin: 0;
+        width: 300px;
+        height: 380px;
+    }
+
+    .card-details h1 {
+        font-size: 1.4rem;
+        letter-spacing: 0.6px;
+    }
+
+    a .card-list4,
+    a .card-list1,
+    a .card-list2,
+    a .card-list3 {
+        width: 290px;
+        height: 380px;
+    }
+
+    /* BRIDGE START */
+
+    .bridge {
+        width: 100%;
+        height: auto;
+        padding: 30px 10px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .bridge a i {
+        font-size: 1.2rem;
+    }
+
+    .bridge a {
+        font-size: 1.1rem;
+    }
+}
