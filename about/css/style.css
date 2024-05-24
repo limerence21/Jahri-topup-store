@@ -118,7 +118,7 @@ header {
       rgba(63, 94, 251, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url(/img/aboutbg3.jpg) no-repeat center;
+    url(../../img/aboutbg3.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   height: max-content;
