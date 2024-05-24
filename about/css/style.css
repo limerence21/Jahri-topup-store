@@ -330,22 +330,22 @@ a .card-list3 {
 
 a .card-list1 {
   /* GANTI FOTO */
-  background: url(/img/card1.jpeg) no-repeat center;
+  background: url(../../img/card1.jpeg) no-repeat center;
   background-size: cover;
 }
 a .card-list2 {
   /* GANTI FOTO */
-  background: url(/img/card2.jpeg) no-repeat center;
+  background: url(../../img/card2.jpeg) no-repeat center;
   background-size: cover;
 }
 a .card-list3 {
   /* GANTI FOTO */
-  background: url(/img/card3.jpeg) no-repeat center;
+  background: url(../../img/card3.jpeg) no-repeat center;
   background-size: cover;
 }
 a .card-list4 {
   /* GANTI FOTO */
-  background: url(/img/card4.jpeg) no-repeat center;
+  background: url(../../img/card4.jpeg) no-repeat center;
   background-size: cover;
 }
 
